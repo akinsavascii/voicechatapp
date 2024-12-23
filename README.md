@@ -1,7 +1,7 @@
 # Voice Chat Application
 A real-time voice chat application using WebRTC and Flask-SocketIO.
 
-## Features
+## Features v1.0.0
 
 - Real-time voice communication
 - Secure P2P connection using WebRTC
