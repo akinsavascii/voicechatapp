@@ -11,6 +11,7 @@ A real-time voice chat application using WebRTC and Flask-SocketIO.
 - Responsive design
 
 ![proje2](https://github.com/user-attachments/assets/beeb7698-3c68-4b8f-a1ef-6c0ad0139b74)
+-----------------------------------------------------
 ![proje1](https://github.com/user-attachments/assets/a56a7117-90d8-431c-adb1-07bee4423496)
 
 ## Quick Start Guide
